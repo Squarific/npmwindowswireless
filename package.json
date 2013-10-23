@@ -7,5 +7,11 @@
   "repository"    : {"type": "git", "url": "git://github.com/squarific/windowswireless.git"},
   "main"          : "main.js",
   "version"       : "0.0.1",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/Squarific/npmwindowswireless/master/LICENSE"
+    }
+  ],
   "files"         : ["main.js", "LICENSE", "README.md"]
 }
