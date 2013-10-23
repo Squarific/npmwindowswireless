@@ -1,0 +1,11 @@
+{
+  "name"          : "windowswifi",
+  "description"   : "Interface for wifi on windows.",
+  "homepage"      : "http://www.squarific.com",
+  "keywords"      : ["windowswifi", "windows", "wifi", "wireless"],
+  "author"        : "Filip Smets <almaaltevinden@gmail.com>",
+  "repository"    : {"type": "git", "url": "git://github.com/squarific/windowswireless.git"},
+  "main"          : "main.js",
+  "version"       : "0.0.1",
+  "files"         : ["main.js", "LICENSE", "README.md"]
+}
