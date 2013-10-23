@@ -4,9 +4,9 @@
   "homepage"      : "http://www.squarific.com",
   "keywords"      : ["windowswifi", "windows", "wifi", "wireless"],
   "author"        : "Filip Smets <almaaltevinden@gmail.com>",
-  "repository"    : {"type": "git", "url": "git://github.com/squarific/windowswireless.git"},
+  "repository"    : {"type": "git", "url": "https://github.com/Squarific/npmwindowswireless.git"},
   "main"          : "main.js",
-  "version"       : "0.0.1",
+  "version"       : "0.0.2",
   "licenses": [
     {
       "type": "MIT",
